@@ -1,5 +1,5 @@
 VB6Calculator
 =============
 
-Visual Basic 6 Simple Calculator Project
-This a project for university students
+یه ماشین حساب خیلی ساده به زبان ویژوال بیسیک 6 برای ارائه بعنوان پروژه پایان ترم<br>
+گذاشتمش اینجا شاید به درد کسی بخوره
